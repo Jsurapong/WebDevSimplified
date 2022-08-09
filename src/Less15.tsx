@@ -70,10 +70,10 @@ const ArrayComponent = () => {
 const Less15 = () => {
   return (
     <>
-      {/* <b>ToggleComponent</b>
+      <b>ToggleComponent</b>
       <ToggleComponent />
       <br />
-      <b>TimeComponent</b>
+      {/* <b>TimeComponent</b>
       <TimeComponent />
       <br />
       <b>DebounceComponent</b>
@@ -81,10 +81,10 @@ const Less15 = () => {
       <br /> 
       <b>UpdateEffectComponent</b>
       <UpdateEffectComponent />*/}
-      <b>ArrayComponent</b>
+      {/* <b>ArrayComponent</b>
       <ArrayComponent />
       <br />
-      <hr />
+      <hr /> */}
     </>
   );
 };
